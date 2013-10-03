@@ -10,7 +10,7 @@
 	"dependencies":{
 		"async":"0.2.x",
         "pg":"2.2.x",
-        "obvyazka":"0.0.5"
+        "obvyazka":"0.0.6"
 	},
 	"devDependencies":{
 		"nodeunit": "0.8.x",
