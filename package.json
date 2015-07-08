@@ -2,7 +2,7 @@
 	"name": "mmosch",
 	"description": "MMOSCH game server",
 	"main": "./lib",
-	"version": "0.0.37",
+	"version": "0.0.38",
     "repository": {
         "type": "git",
         "url": "git://github.com/prograess/mmosch.git"
@@ -10,7 +10,7 @@
 	"dependencies":{
 		"async":"0.2.x",
         "pg":"2.2.x",
-        "obvyazka":"0.0.11",
+        "obvyazka":"0.0.12",
 		"date-utils":"1.2.14"
 	},
 	"devDependencies":{
