@@ -12,6 +12,7 @@
         "pg":"2.2.x",
         "obvyazka":"0.0.12",
 		"date-utils":"1.2.14"
+		"colors": "1.1.2",
 	},
 	"devDependencies":{
 		"nodeunit": "0.8.x",
