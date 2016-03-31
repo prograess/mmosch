@@ -5,17 +5,18 @@
 	"version": "0.0.38",
     "repository": {
         "type": "git",
-        "url": "git://github.com/prograess/mmosch.git"
+        "url": "git://github.com/bengun88/mmosch.git"
     },
 	"dependencies":{
-		"async":"0.2.x",
-        "pg":"2.2.x",
-        "obvyazka":"0.0.12",
-		"date-utils":"1.2.14"
+		"async":"1.5.0",
+        "pg":"4.5.2",
+        "obvyazka":"file:../obvyazka",
+		"date-utils":"1.2.19",
+		"colors": "1.1.2"
 	},
 	"devDependencies":{
-		"nodeunit": "0.8.x",
-        "istanbul":"0.1.42"
+		"nodeunit": "^0.8.x",
+        "istanbul":"^0.1.42"
 	},
 	"scripts":{
 		"test": "istanbul cover nodeunit test"
