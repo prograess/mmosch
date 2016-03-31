@@ -9,10 +9,10 @@
     },
 	"dependencies":{
 		"async":"1.5.0",
-        "pg":"4.0.0",
+        "pg":"4.5.2",
         "obvyazka":"file:../obvyazka",
-		"date-utils":"1.2.16",
-		"colors": "1.0.0"
+		"date-utils":"1.2.19",
+		"colors": "1.1.2"
 	},
 	"devDependencies":{
 		"nodeunit": "^0.8.x",
